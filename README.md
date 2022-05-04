@@ -1,6 +1,6 @@
 # RSocket Test Server
 
-If you have an application that connects to an RSocket server at runtime, how do you test it? We need a way for a test to start a server and tell us where it is listening, and then we need to be able to register request and response examples (a.k.a. "contracts"). That's what this [project](https://github.com/dsyer/rsocket-test-server) provides - it's like Wiremock but for RSocket.
+If you have an application that connects to an RSocket server at runtime, how do you test it? We need a way for a test to start a server and tell us where it is listening, and then we need to be able to register request and response examples (a.k.a. "contracts"). That's what this [https://github.com/dsyer/rsocket-test-server](project) provides - it's like Wiremock but for RSocket.
 
 ## Getting Started
 
